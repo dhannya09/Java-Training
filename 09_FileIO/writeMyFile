@@ -1,0 +1,1 @@
+ = new WriteMyFile(file, outputStream, outMessage);
